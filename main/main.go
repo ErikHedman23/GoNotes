@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"reposgo/gonotes/sums"
+	"gonotes/sums"
 )
 
 func main() {
